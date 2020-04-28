@@ -36,7 +36,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more.
 
 ## Useful resources
 
-- Homepage: <https://versionpress.net/>
+- Homepage: <https://versionpress.com/>
 - [User documentation](https://docs.versionpress.net/)
 - [Blog](https://blog.versionpress.net/)
 - Support repo: [`versionpress/support`](https://github.com/versionpress/support)
